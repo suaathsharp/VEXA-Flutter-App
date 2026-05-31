@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291288879208",
+    "project_id": "vexa-app-40bfa",
+    "storage_bucket": "vexa-app-40bfa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291288879208:android:a2b022cfc5971e9ccf6bdd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSdawWbCV-NxlDeNaGZLr1mBSbdj2t06c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
